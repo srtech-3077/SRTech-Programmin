@@ -1,0 +1,27 @@
+.container h1 {
+    color: #7665a0;
+    font-size: 32px;
+    font-family: 'Gotham 7r', sans-serif;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    line-height: 1.2em;
+}
+
+.col-40 {
+    width: 40%;
+    float: left;
+}
+
+.col-60 {
+    width: 55%;
+    float: left;
+}
+
+.body {
+    font-family: 'Gotham 4r', sans-serif;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: normal;
+    color: dimgray;
+    margin: 0;
+}
