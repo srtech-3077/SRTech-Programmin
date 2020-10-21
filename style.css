@@ -5,6 +5,7 @@
     margin-top: 50px;
     margin-bottom: 30px;
     line-height: 1.2em;
+    width: 100%;
 }
 
 .col-40 {
@@ -24,4 +25,11 @@
     font-weight: normal;
     color: dimgray;
     margin: 0;
+}
+
+.col-md-12 h1 {
+    width: 100%;
+    color: #7665a0;
+    font-size: 32px;
+    font-family: 'Gotham 7r', sans-serif;
 }
