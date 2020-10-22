@@ -1,11 +1,12 @@
 .container h1 {
     color: #7665a0;
     font-size: 32px;
-    font-family: 'Gotham 7r', sans-serif;
+    font-family: 'Gotham 7r', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva',' Verdana', sans-serif;
     margin-top: 50px;
     margin-bottom: 30px;
     line-height: 1.2em;
     width: 100%;
+    background-color:#palegreen;
 }
 
 .col-40 {
@@ -23,13 +24,21 @@
     font-size: 14px;
     line-height: 22px;
     font-weight: normal;
-    color: dimgray;
+    color:#dimgray;
     margin: 0;
 }
 
 .col-md-12 h1 {
+    
+    background-color:#lightsalmon;
     width: 100%;
     color: #7665a0;
     font-size: 32px;
-    font-family: 'Gotham 7r', sans-serif;
+    font-family: 'Gotham 7r', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode','Geneva','Verdana', sans-serif;
+}
+
+.col-lg-6 {
+    background-clip: border-box;
+    padding-left: 100px;
+    margin-top: 25px;
 }
