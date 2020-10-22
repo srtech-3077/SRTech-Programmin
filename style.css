@@ -42,3 +42,10 @@
     padding-left: 100px;
     margin-top: 25px;
 }
+.fa {
+    padding: 2px;
+    font-size: 15px;
+    width: 15px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 15%;
