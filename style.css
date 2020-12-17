@@ -52,8 +52,8 @@
 }
 
 .mui-container {
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 div.tp-content-widget {
@@ -61,14 +61,14 @@ div.tp-content-widget {
     border: 3px grey;
     box-shadow: 4px 4px 5px 2px lightblue;
     padding: 40px;
-    margin: 50px;
+    margin: 40px;
 }
 
 div.tp-content-icons {
-    margin-left: 60px;
+    margin-left: 50px;
 }
 
 .mui-container h1 {
-    margin-top: 50px;
-    margin-bottom: 30px;
+    margin-top: 60px;
+    margin-bottom: 50px;
 }
